@@ -122,3 +122,9 @@ main{
 .about-info{
     text-align: center;
 }
+.info-description{
+    font-weight: 700;
+}
+#what-i-do-description{
+    padding: 0 150px;
+}
